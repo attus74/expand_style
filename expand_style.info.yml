@@ -1,0 +1,8 @@
+## Expand Style
+---
+
+name: Expand Style
+description: An Expand Image Style
+type: module
+core_version_requirement: ^9.2 || ^10.0
+package: Media

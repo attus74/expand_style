@@ -1,0 +1,25 @@
+{
+  "name": "attus/expand_style",
+  "description": "An Expand Image Style for Drupal",
+  "type": "drupal-module",
+  "keywords": [
+    "Drupal",
+    "Image Style"
+  ],
+  "homepage": "https://github.com/attus74/expand_style",
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Attila Németh",
+      "role": "dveloper",
+      "email": "attila.nemeth@ubgnet.de"
+    }
+  ],
+  "support": {
+    "email": "attila.nemeth@ubgnet.de",
+    "issues": "https://github.com/attus74/expand_style/issues"
+  },
+  "require": {
+    "drupal/core": "^9.2 || ^10.0"
+  }
+}
