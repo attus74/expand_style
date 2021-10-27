@@ -1,0 +1,13 @@
+## Schema
+---
+
+image.effect.expand_style:
+  type: image_size
+  label: Image Expand
+  mapping:
+    background:
+      label: Background
+      type: string
+    color:
+      label: Background Color
+      type: string
